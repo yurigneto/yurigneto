@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/yuri_gneto/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurigneto&show_icons=true&theme=dark)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SEU_USUARIO&show_icons=true)
 
 
 ## Tecnologias que utilizo
