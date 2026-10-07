@@ -1,23 +1,53 @@
+# Olá, eu sou o Yuri Neto 👋
 
-### Olá! Eu sou o Yuri Neto 👋
+Estudante de Ciência da Computação na UTFPR, desenvolvendo aplicações web e estudando
+engenharia de software, arquitetura, bancos de dados e Inteligência Artificial.
 
+Atualmente estou desenvolvendo o **Zona 45 Sport Lab**, uma plataforma esportiva regional
+construída com Next.js, React, TypeScript, PostgreSQL e Supabase.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/yuri-neto-b7534422a/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/yuri_gneto/)
+## Conecte-se comigo
 
-📊 Estatísticas do GitHub
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-neto-b7534422a/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yuri_gneto/)
+
+## Tecnologias e ferramentas
+
+<div>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</div>
+
+## Projeto em destaque
+
+### Zona 45 Sport Lab
+
+Plataforma esportiva regional para organização e publicação de notícias, equipes,
+competições, partidas, resultados e informações esportivas.
+
+**Stack:** Next.js · React · TypeScript · PostgreSQL · Supabase
+
+O código-fonte principal é privado, mas o projeto está em desenvolvimento ativo.
+
+## Estatísticas
 
 <div align="center">
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=yurigneto&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em"
+src="https://github-stats-extended.vercel.app/api?username=yurigneto&show_icons=true&theme=dark&include_all_commits=true&hide_border=true"/>
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yurigneto&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+<img height="180em"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=yurigneto&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
 
 </div>
-
-<br>
 
 <div align="center">
 
@@ -25,36 +55,8 @@
 
 </div>
 
-📈 Atividade
+---
 
-<div align="center">
+> "The best way to predict the future is to create it."
 
-
-
-
-</div>
-
-
-## Tecnologias que utilizo
-
-<div style="display: inline_block"><br/>
-    <img align="center"  alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img align="center"  alt="CSS3" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
-    <img align="center"  alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img align="center"  alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-    <img align="center"  alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center"  alt="Bootsrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    <img align="center"  alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
-
-</br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurigneto&hide_progress=false)
-
-</br>
-"The best way to predict the future is to create it.”
-
- <br/><img align="center"  alt="CSS3" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> yuri.g.neto123@gmail.com
-
-
-
+📫 **Contato:** yuri.g.neto123@gmail.com
